@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: fda_utils
+Version: 0.0.1
+Summary: utility functions for financial data analytics
+Author-email: Ralf Kellner <ralf.kellner@uni-passau.de>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: statsmodels
+Requires-Dist: numpy

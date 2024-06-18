@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fda_utils"
+authors = [
+    {name = "Ralf Kellner", email = "ralf.kellner@uni-passau.de"}
+]
+description = "utility functions for financial data analytics"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas", 
+    "statsmodels",
+    "numpy"
+]

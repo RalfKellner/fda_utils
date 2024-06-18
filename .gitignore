@@ -1,0 +1,3 @@
+.venv/*
+.DS_Store
+dist/fda_utils-0.0.1.tar.gz
